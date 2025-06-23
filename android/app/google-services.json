@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960456369743",
+    "project_id": "ta-app-850bd",
+    "storage_bucket": "ta-app-850bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960456369743:android:894fd78b15e68a9a5bec3a",
+        "android_client_info": {
+          "package_name": "com.example.spk_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiOML88myeJCN7iZpjHC_qWpX3kXWJHFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
